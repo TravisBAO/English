@@ -9,6 +9,12 @@
 
  - 引入 verification purposes（用于身份核实），这是典型的地道商务用语。
 
+ - **Were seated at** (被动语态/状态描述)：
+
+    - 含义：描述一种安置好的状态。
+
+    - 语感：非常正式且具有“职场范儿”。 它暗示了你们在餐厅被安排到了那个位置。
+
 ### 句式复杂性 (Grammar):
 
  - 被动语态: “My friends and I were seated...” 机器非常看重被动语态的使用。
@@ -41,11 +47,11 @@ Travis
 
 Dear Restaurant Manager,
 
-I am writing to formally inquire about a missing bag following my visit yesterday. **My friends and I were seated at the table adjacent to the bar**, but I inadvertently left my belongings behind upon departure.
+I am writing to formally inquire about a missing bag following my visit yesterday. My friends and I **were celebrating** a birthday and **were seated at** the table **adjacent** to the main entrance, Unfortunately, I left my belongings behind upon departure.
 
-The item is a **black bag featuring a long metal strap with no visible branding on the exterior**. **Contained within** are several personal items, including a power bank and a wallet **which houses my driver’s license for verification purposes.**
+The item is a small, black handbag featuring a long metal strap with **no visible branding** on the exterior. **Contained within** are several personal items, including a power bank and a wallet which **houses** my driver’s license for **verification purposes**.
 
-I would be immensely grateful if **you could check your lost and found department**. Should the bag be located/If the bag is found, please contact me **at your earliest convenience** at 345-434-3333. Thank you for your time and assistance.
+I would greatly appreciate your assistance in checking the lost and found department. If the bag is found, please contact me at 12345555. Thank you for your time.
 
 Best regards,
 
