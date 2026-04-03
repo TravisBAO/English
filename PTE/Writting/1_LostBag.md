@@ -19,8 +19,6 @@
 
  - 被动语态: “My friends and I were seated...” 机器非常看重被动语态的使用。
 
- - **虚拟语气/条件句: “Should the bag be located...” (万一包被找到了...)，这种倒装结构是 CLB 10 的核心加分项。**
-
  - 非谓语动词: “...black bag featuring a long metal strap...” 减少了简单句的堆砌。
 
 ### 衔接与逻辑 (Cohesion):
@@ -49,9 +47,9 @@ Dear Restaurant Manager,
 
 I am writing to formally inquire about a missing bag following my visit yesterday. My friends and I **were celebrating** a birthday and **were seated at** the table **adjacent** to the main entrance, Unfortunately, I left my belongings behind upon departure.
 
-The item is a small, black handbag featuring a long metal strap with **no visible branding** on the exterior. **Contained within** are several personal items, including a power bank and a wallet which **houses** my driver’s license for **verification purposes**.
+The item is a small, black handbag featuring a long strap with **no visible branding** on the exterior. **Contained within** are several personal items, including a power bank and a wallet which **houses** my driver’s license for **verification purposes**.
 
-I would greatly appreciate your assistance in checking the lost and found department. If the bag is found, please contact me at 12345555. Thank you for your time.
+I would greatly appreciate your assistance in checking the lost and found department. If the bag is found, please contact me at your earlier convenience at 12345555. Thank you for your time.
 
 Best regards,
 
