@@ -1,11 +1,20 @@
-1 - You need to prepare your boarding pass and passport in front of the gate.
+1 - You need to prepare your boarding pass and passport in front of the gate.  
+79 - Show your passport and boarding pass at the gate.
 
 2 - The supermarket is located near the theatre.
 
-3 - You need to pass the written exam to get the driver's licenses.
+14 - The **chemistry** building is located near the entrance to the campus.
 
-50 - You need to pass the written exam before applying for the driver's license.
+100 - The **grocery** is located near the north side down the street.
 
+The restaurant is located across the theater.
+
+The art museum is located across the street and near the theater.
+
+147 - The garden is located to the south of the building.
+
+3 - You need to pass the written exam to get the driver's licenses.  
+50 - You need to pass the written exam before applying for the driver's license.  
 74 - You need to pass the written exam to apply for the driver's licenses.
 
 4 - The bus for London will leave 10 minutes later than planned.
@@ -13,6 +22,8 @@
 8 - The bus for London will leave early tomorror morning.
 
 57 - The bus for London will be scheduled once a week.
+
+The bus **right out front** will take you to London.
 
 40 - The bus for the airport will arrive soon.
 
@@ -30,11 +41,11 @@
 
 34 - Students with a wide range of backgrounds can achieve a variety of qualifications.
 
+99 - Students from a range of backgrounds achieve a variety of qualifications.
+
 **@@** - 12 - In your introduction, show you understand the question in no more than four sentences.
 
 **@@** - 13 - The students must attend the safety courses and wear protective goggles before entering the laboratory.
-
-**@@** - 14 - The chemistry building is located near the entrance to the campus.
 
 **@@** - 15 - The graph shows the population growth in the last century.
 
@@ -86,7 +97,9 @@
 
 37 - The energy that we obsorb from food can help us prevent the cold and become warmer.
 
-38 - We are committed to recruiting/attracting the best students regardless of their financial situation.
+38/139 - We are committed to **recruiting/attracting** the very best students regardless of their financial situation/circumstances.
+
+**Be committed to + ing**
 
 39 - Your son has a bad cold and is in the nurse's room.
 
@@ -104,11 +117,17 @@
 
 49 - It is expected that all students have their own laptops.
 
-75 - Every students should have their own laptop.
+75 - Every students should have their own laptops.
+
+124 - Students are expected to have their own laptops.
 
 51 - You need to wear a hard hat into the construction site.
 
 52 - You must wear a hard hat when you go to the construction site.
+
+104 - You must wear a hard hat on the construction side.
+
+110 - You should wear a hard hat when you are on the construction side.
 
 53 - Several people have applied for the (project) manager position.
 
@@ -128,9 +147,21 @@
 
 63 - Assignment should be sumbitted to the department office before the deadline.
 
+Please submit all the assignments before the deadline.
+
+132 - Students must submit their assignments by the end of this **semester**.
+
+Assignments must be submitted at the end of the term.  
+Students will complete the project by September.  
+The students usually complete their projects in November.
+
+150 - postgraduate students need to complete the **evaluation form** before the end of the term.
+
 64 - You can add a salad to your meal.
 
-Grocery store is around the corner down the street.
+125 - This is your choice. You can add soup or salad to your meal.
+
+65 - Grocery store is around the corner down the street.
 
 You need to record every details of the call in the afternoon.
 
@@ -140,7 +171,9 @@ If you forget your passport, please contact the office.
 
 YOu have fulfilled the enrollment requirements.
 
-70 - I make sure to prepare report for my boss.
+70 - I make sure to prepare report for my boss.  
+94 - I have to prepare report for the manager.  
+Your boss requires you to finish the report before Friday.
 
 The hotel is not far away from my apartment.
 
@@ -149,3 +182,114 @@ The hotel is not far away from my apartment.
 The manager will have a meeting in this room today.
 
 76 - You can speak to the current students at the information sessions.
+
+An effective business manager is always open to new ideas.
+
+Your car can park in the building behind the medical center.
+
+80 - Please read the article that was given **out** yesterday.
+
+You must read every single page of this book and study it carefully.
+
+I have lectures on Tuesday from nine am until two pm
+
+Speaking one or more foreign languages will be useful in your career.
+
+There is a fitness center next to the student union.
+
+85 - You can **borrow up to** two books at the same time in the library.
+
+136 - You can borrow books from the library for three weeks.
+
+The campus car park will be closed next weekend.
+
+The library is downstairs on the east side of the building.
+
+90 - Passengers on the train should not put feet on the seat.  
+Passengers should not put their feet on the seats.
+
+Tomorrow evening, there will be a **panel discussion** on sustainable development.
+
+You should submit your essays to the general office.
+
+93 - If the doctor calls me **while I'm out**, please leave a message.
+
+If I'm out, please leave a message to my doctor.
+
+95 - You can get the books in the library.
+
+120 - You can get the books for this course in the library.
+
+126 - Students can use their student cards to borrow the books for their course.
+
+127 - Students use their student ID to borrow books from the library.
+
+The test shows/showed that you know a lot about Canada
+
+We will discuss the influence of the media on public policy.
+
+Different entrances to the program get the same qualification.
+
+101 - **Control systems in manufacturing** require a high level of accuracy.
+
+102 - The professor predicted biotechnology is the future of traditional biology.
+
+103 - If finance is a cause for concern, scholarships may be available.
+
+I need somebody to fix the problem with the computer screen.
+
+106 - Students meet the minimum requirement qualify.
+
+You need to make an appointment with the doctor.  
+I have made an appointment to see the doctor this morning.
+
+I think your watch is fast. You need to reset it.
+
+109 - You will have the flexibility **to chose your own path as an marine engineer.**
+
+111 - Higher education means higher pay you will get.
+
+112 - The **competency of language** in the assignment is to use more formal words.
+
+Medical books and **journals** have been moved to the second floor.
+
+You must satisfy the listed requirements to get the qualifications.
+
+If you forget your password, contact the support center after a few minutes.
+
+**116 Employees go around the park at lunch time.**
+
+A public telephone is available in the shop.
+
+If you give me your phone number, I can text you the address.
+
+123 - By attending meetings, you can ask questions and meet new people.
+
+138 - Meeting is a great chance to ask questions and meet new people.
+
+The discussion is a great change to meet new people and make friends.
+
+128 - There has been a delay **in processing the enrollment** due to the computer problems.
+
+129 - The weather has been lovely **from** this time of the year.
+
+130 - **Line up in a row**. We will entry the library from the left side.
+
+131 - This parking space is for the employee of the month.
+
+You should arrive at the bus stop a few minutes early.
+
+**134 - The corporation did not work well and gained no profits.**
+
+**135 - The professor would be available for the lecture soon.**
+
+The school will prepare hot meals for students.
+
+144 - You need to take South Street due to construction.
+
+145 - There is a **pharmacy** on campus near the store.
+
+The train is leaving in a few minutes.
+
+The computer lab is open 24 hours a day.  
+The library is open all day except Sunday.
