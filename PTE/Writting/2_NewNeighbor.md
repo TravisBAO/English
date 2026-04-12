@@ -23,11 +23,11 @@ Travis
 ## Gemini updated
 Dear John,
 
-I am **delighted** that you **have joined** our community, and I am writing to follow up on our recent conversation regarding the minor issues you have encountered.
+I am **delighted** that you **have joined** our community, and I am writing to **follow up** on our recent conversation regarding the minor issues **you have encountered**.
 
-Regarding the noise from your neighbor, Jerry, it is likely he is unaware of your arrival since the property was vacant for an extended period. **I recommend having** a friendly chat with him, as he is generally very considerate and would likely diminish the volume if asked politely.
+Regarding the noise from your neighbor, Jerry, it is likely he is unaware of your arrival since the property was vacant for an extended period. **I recommend having** a friendly chat with him, as he is generally very considerate and would likely **diminish the volume** if asked politely.
 
-Furthermore, the parking situation can be easily addressed. **I suggest contacting** the community manager to inquire about leasing an additional visitor parking stall for your convenience. Lastly, concerning the garbage accumulation, you may submit a request to the local municipality for a larger bin to accommodate your household waste.
+Furthermore, the parking situation can be easily addressed. **I suggest contacting** the community manager to inquire about leasing an additional visitor parking stall for your convenience. Lastly, concerning the garbage accumulation, you may submit a request to the local **municipality** for a larger bin to accommodate your household waste.
 
 I hope these solutions prove helpful. Please do not hesitate to reach out if you need further assistance.
 

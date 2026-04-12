@@ -7,37 +7,29 @@
 
 100 - The **grocery** is located near the north side down the street.
 
-The restaurant is located across the theater.
-
-The art museum is located across the street and near the theater.
-
+The art museum is located across the street and near the theater.  
 147 - The garden is located to the south of the building.
 
 3 - You need to pass the written exam to get the driver's licenses.  
 50 - You need to pass the written exam before applying for the driver's license.  
 74 - You need to pass the written exam to apply for the driver's licenses.
 
-4 - The bus for London will leave 10 minutes later than planned.
-
-8 - The bus for London will leave early tomorror morning.
-
-57 - The bus for London will be scheduled once a week.
-
+4 - The bus for London will leave 10 minutes later than planned.  
+8 - The bus for London will leave early tomorror morning.  
+57 - The bus for London will be scheduled once a week.  
 The bus **right out front** will take you to London.
-
-40 - The bus for the airport will arrive soon.
 
 5 - You need to get a new photo for your driver's license.
 
 6 - You need to have warm clothes for winter.
 
-@@ - 7 - The bus **right out in the front** will take you to the station.
+7 - The bus **right out in the front** will take you to the station.
 
 9 - If you show your student card, you will get a discount.
 
 10 - I didn't understand the author's point of view on immigration.
 
-**@@** - 11 - Students from different backgrounds can achieve **a variety of qualifications.**
+11 - Students from different backgrounds can achieve **a variety of qualifications.**
 
 34 - Students with a wide range of backgrounds can achieve a variety of qualifications.
 
@@ -49,27 +41,27 @@ The bus **right out front** will take you to London.
 
 **@@** - 15 - The graph shows the population growth in the last century.
 
-16 - The full list of undergraduate programs can be found on the website.
-
 46 - The full list of undergraduate and postgraduate programs can be found on the website.
 
 45 - The information you need for the meeting is on the website
 
 17 - There are many different religions across the world.
 
-**@@** - 18 - The study demostrates a need for the further research in this field.
+**18 - The study demostrates a need for the further research in this field.**
 
 19 - Try to get through it as soon as possible.
 
 20 - This program is running in partnership with a number of departments.
 
-**@@** 21 - Your abstract should contain the empirical evidence of your research.
+**21 - Your abstract should contain the empirical evidence of your research.**
 
 22 - I **haven't** done a lot of work in this area.
 
-23 - Passengers on the train must take their seats.
-
+23 - Passengers on the train must take their seats.  
 35 - Passengers on the train should take their seats.
+
+90 - Passengers on the train should not put feet on the seat.  
+Passengers should not put their feet on the seats.
 
 24 - The students are supposed to assemble in the seminar hall before the announcement.
 
@@ -115,18 +107,13 @@ The bus **right out front** will take you to London.
 
 48 - The origin of psychology can be traced back to ancient Greece.
 
-49 - It is expected that all students have their own laptops.
-
-75 - Every students should have their own laptops.
-
+49 - It is expected that all students have their own laptops.  
+75 - Every students should have their own laptops.  
 124 - Students are expected to have their own laptops.
 
-51 - You need to wear a hard hat into the construction site.
-
-52 - You must wear a hard hat when you go to the construction site.
-
-104 - You must wear a hard hat on the construction side.
-
+51 - You need to wear a hard hat into the construction site.  
+52 - You must wear a hard hat when you go to the construction site.  
+104 - You must wear a hard hat on the construction side.  
 110 - You should wear a hard hat when you are on the construction side.
 
 53 - Several people have applied for the (project) manager position.
@@ -139,25 +126,21 @@ The bus **right out front** will take you to London.
 
 59 - I have to get up early for an interview tomorrow.
 
-60 - Library will be closed during summer vacation.
-
-**61 - Library will be closed except during holidays.**
-
-62 - The campus library will be closed during the winter break.
+60 - Library will be closed during summer vacation.  
+61 - Library will be closed **except during holidays.**  
+62 - The campus library will be closed during the winter break.  
+The campus car park will be closed next weekend.
 
 63 - Assignment should be sumbitted to the department office before the deadline.
 
-Please submit all the assignments before the deadline.
-
 132 - Students must submit their assignments by the end of this **semester**.
 
+Please submit all the assignments before the deadline.  
 Assignments must be submitted at the end of the term.  
 Students will complete the project by September.  
 The students usually complete their projects in November.
 
 150 - postgraduate students need to complete the **evaluation form** before the end of the term.
-
-64 - You can add a salad to your meal.
 
 125 - This is your choice. You can add soup or salad to your meal.
 
@@ -187,11 +170,11 @@ An effective business manager is always open to new ideas.
 
 Your car can park in the building behind the medical center.
 
-80 - Please read the article that was given **out** yesterday.
+80 - Please read the article that was **given out** yesterday.
 
 You must read every single page of this book and study it carefully.
 
-I have lectures on Tuesday from nine am until two pm
+I have lectures on Tuesday from nine am until two pm.
 
 Speaking one or more foreign languages will be useful in your career.
 
@@ -201,12 +184,7 @@ There is a fitness center next to the student union.
 
 136 - You can borrow books from the library for three weeks.
 
-The campus car park will be closed next weekend.
-
 The library is downstairs on the east side of the building.
-
-90 - Passengers on the train should not put feet on the seat.  
-Passengers should not put their feet on the seats.
 
 Tomorrow evening, there will be a **panel discussion** on sustainable development.
 
@@ -215,8 +193,6 @@ You should submit your essays to the general office.
 93 - If the doctor calls me **while I'm out**, please leave a message.
 
 If I'm out, please leave a message to my doctor.
-
-95 - You can get the books in the library.
 
 120 - You can get the books for this course in the library.
 
@@ -263,10 +239,8 @@ A public telephone is available in the shop.
 
 If you give me your phone number, I can text you the address.
 
-123 - By attending meetings, you can ask questions and meet new people.
-
-138 - Meeting is a great chance to ask questions and meet new people.
-
+123 - By attending meetings, you can ask questions and meet new people.  
+138 - Meeting is a great chance to ask questions and meet new people.  
 The discussion is a great change to meet new people and make friends.
 
 128 - There has been a delay **in processing the enrollment** due to the computer problems.
@@ -288,8 +262,6 @@ The school will prepare hot meals for students.
 144 - You need to take South Street due to construction.
 
 145 - There is a **pharmacy** on campus near the store.
-
-The train is leaving in a few minutes.
 
 The computer lab is open 24 hours a day.  
 The library is open all day except Sunday.
