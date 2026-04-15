@@ -1,29 +1,37 @@
+**1 - Skilled trades**
+Skilled trades are vital to Canada's economy. The government supports these careers through national standards and policy incentives, offering high pay and stability during labor shortages.
 
-**2 - Phone interviews**
-
-Phone interviews are different from in-person interviews. Speaking tone is very important during phone interviews. Additionally, it is crucial to maintain a continuous flow throughout the conversation.
-
-
-**3 - Orientation**
-
-Orientation is very helpful for new employees. But some people think it's a waste of time. It seems that the orientation is more effective if it's shorter.
-
-**4 - the first day of school**
-
-The first day of school is very important for new students. They need to remember their teachers' names, and their parents can help them prepare lunch.
-
-**5 - Microloan**
-
-Microloans let people who can't get regular bank loans start small business with looser rules, but if the interest rate is too high, borrowers can quickly fall into debt.
-
-**6 - Interview**
-
-What **a manager is seeking** in a job interview is **your thought process**, your **passion**, and your story, **rather than** just s**traightforward answers to questions**.
+**4 - Transition to School**
+To help children succeed in the new academic year, parents could support in multiple areas, such as preparing school materials, creating a consistent routine, and giving emotional support.
 
 **7 - cleaning the park**
-
-People cleaning the park are **divided into** three teams that focus on different tasks: **cleaning** trash, **checking plant health**, and **painting** the tables.
+The organizer assigned three teams to clean the park: Kevin's group collects garbage, Martin's group removes invasive plants, and Karen's team repaints fixtures to restore the area.
 
 **8 - clean fruits and vegetables**
+To ensure vegetable quality, suppliers should pre-wash produce. Sometimes they need to do it multiple times. This process will not damage the vegetable's nutrients and could save customers' time.
 
-The speaker reminds us that not all fruits and vegetables **need to be washed**. It's better to check the labels **on the packaging/on the packages**.
+**9 - Rail pass**
+The Railpass offers flexible, cost-effective train travel and additional discounts, but passengers should plan ahead and check schedules to ensure availability and manage time limits effectively.
+
+**Farming**
+Canadian farming is an ecominic cornerstone facing climate and sustainability challenges. However, through technological innovation and sustainable practices, the sector remains vital for national growth and global food security.
+
+**Hair Dressers**
+Hairdressers provide personalized grooming services that boot client confidence. This physically demanding profession requires technical expertise, continuous learning, and effective communication to meet evolving trends and ensure customer satisfaction.
+
+**Computers**
+Computers have improved efficiency in many areas of industry, and changed people's lives, including communication methods. Although they have challenges such as cybersecurity, they shaped modern life.
+
+**Water**
+Water is essential for human survival, yet drinking water quality and related legal rights remain neglected. This discussion emphasizes the urgent need for better legal protections and personal awareness.
+
+**Globalization**
+Globalization creates a shrinking world through instant communication and cultural exchange. However, it also triggers detraditionalization, where local cultures and traditional moralities are eroded by global influences like Hollywood.
+
+
+
+Economic development impacts climate through increased emissions from industry and energy use, though investments in clean technology can help minigate environmental damage.
+
+**11 - Preserving Biodiversity**
+
+Preserving biodiversity is vital for ecosystem balance, protecting species from human threats like deforestation and pollution, and providing resources such as food and medicine.
