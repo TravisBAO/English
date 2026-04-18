@@ -1,4 +1,4 @@
-![alt text](187.png)
+![alt text](images/187.png)
 
 The horizontal bar chart illustrates the barriers to visiting museums or art galleries **among a group of adults.**
 

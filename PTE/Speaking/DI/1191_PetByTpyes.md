@@ -1,4 +1,4 @@
-![alt text](1191.png)
+![alt text](images/1191.png)
 
 这张图是一个典型的横向柱状图（Horizontal Bar Chart），描述了美国养宠物家庭的数量分布。这类图表的答题逻辑非常清晰：总数 -> 最大项 -> 最小项 -> 总结。
 

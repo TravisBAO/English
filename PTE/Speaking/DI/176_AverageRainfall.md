@@ -1,4 +1,4 @@
-![alt text](176.png)
+![alt text](images/176.png)
 
 The bar chart provides information regarding the average rainfall in inches for four different cities.
 

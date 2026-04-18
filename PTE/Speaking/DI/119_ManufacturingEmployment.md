@@ -1,4 +1,4 @@
-![alt text](119.png)
+![alt text](images/119.png)
 
 The line graph illustrates the relationship between Ontario manufacturing employment and the Canadian dollar exchange rate from 1981 to 2013.
 

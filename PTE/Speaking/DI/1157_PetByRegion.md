@@ -1,4 +1,4 @@
-![alt text](1157.png)
+![alt text](images/1157.png)
 
 **核心数据点**
  - 标题： Pet Ownership by Region

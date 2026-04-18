@@ -1,4 +1,4 @@
-![alt text](CoffeeHouse.png)
+![alt text](images/CoffeeHouse.png)
 
 The following image illustrates a busy scene inside a modern coffee shop.
 

@@ -1,4 +1,4 @@
-![alt text](10041.png)
+![alt text](images/10041.png)
 
 The bar chart illustrates the number of overseas visitors to Canada from different countries in 2009 and 2010.
 
