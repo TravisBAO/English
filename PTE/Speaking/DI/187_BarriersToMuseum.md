@@ -4,7 +4,7 @@ The horizontal bar chart illustrates the barriers to visiting museums or art gal
 
 According to the graph, the **most significant barrier** is the lack of time, which **accounts for** more than 50 percent of the respondents. This is followed by the factor of not being available locally, **representing** approximately 30 percent.
 
-In contrast, other reasons such as transport problems and the cost of entry show much lower proportions, staying between 10 and 15 percent. Interestingly, **the least common reason** is the lack of information about events, which stands at only 5 percent.
+In contrast, other reasons such as transport problems and the cost of entry show much lower proportions, staying between 10 and 15 percent. Interestingly, **the least/lowest common reason / the minimum proportion / at the bottom of the list** is the lack of information about events, which stands at only 5 percent.
 
 In conclusion, the majority of adults are unable to visit museums more often due to time constraints and geographical limitations.
 

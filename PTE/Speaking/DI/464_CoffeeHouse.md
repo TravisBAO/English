@@ -1,6 +1,6 @@
 ![alt text](images/CoffeeHouse.png)
 
-The following image illustrates a busy scene inside a modern coffee shop.
+The following image illustrates a busy **scene/atmosphere/vibe/envrionment** inside a modern coffee shop.
 
 In the foreground, a female staff member wearing a black apron is smiling while operating a tablet device on the wooden counter. Opposite her, a male customer in a blue shirt is standing and waiting to place his order or make a payment.
 
