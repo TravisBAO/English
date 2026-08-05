@@ -32,14 +32,14 @@ Hairdressers provide personalized grooming services that boot client confidence.
 Computers have improved efficiency in many areas of industry and changed the way people live and communicate. Although they have challenges such as cybersecurity, they have shaped modern life.
 
 **Water**
-Water is essential for human survival, yet drinking water quality and related legal rights remain neglected. This discussion emphasizes the urgent need for better legal protections and personal awareness.
+Water is essential to human survival; however, ater quality and the legal right to access it remain neglected/overlooked/unrecognized. This discussion emphasizes the urgent need for better legal protection and personal awareness.
 
 **Globalization**
-Globalization creates a shrinking world through instant communication and cultural exchange. However, it also triggers detraditionalization, where local cultures and traditional moralities are eroded by global influences like Hollywood.
+Globalization creates a shrinking world through instant communication and cultural exchange; however, it also leads to detraditionalization, in which local cultures and traditional moralities/values are gradually/slowly supplanted/replaced by global influences like Hollywood.
 
 
-
-Economic development impacts climate through increased emissions from industry and energy use, though investments in clean technology can help minigate environmental damage.
+**10 - Impact of Ecomonic**
+Economic development impacts the climate through increased emissions from industry and energy use, while investments in clean technology can help mitigate/offset/minimize environmental damage.
 
 **11 - Preserving Biodiversity**
 

@@ -8,4 +8,5 @@
 
 **5 - Teenagers more than most age groups feel strong pressure to conform.**
 
-6 - 
+
+15 - The corporation did not work well and gained no profits.

@@ -29,7 +29,7 @@ Students of the first year usually live **on campus**. (固定搭配 on campus, 
 The fiction books are just past the counter. (past在这里 t 不发音， 是介词) 小说类书籍就在柜台旁边。
 
 ## 29
-**The school canteen sells a large variety of water and food.**
+The **school canteen** sells a large **variety of** water and food.
 
 ## 32
 You will get your **uniform** **on** the first day. (on 某一天，固定搭配)
