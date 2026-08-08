@@ -20,7 +20,7 @@
 
 252 - graduate, scuplture, real, **incorporating**, profession
 
-10001 - journalist, experience, **scary**, electronics
+**10001** - journalist, agency, experience, **scary**, electronics
 
 10002 - consume, **recommended**, **diagnosed**, **offensive**, 注意都是过去时态
 
@@ -82,4 +82,4 @@
 
 10052 - prediction, **profound**, consumption.
 
-10053 - urgent, contribution, systsem, **sector**, **throughout**
+**10053** - urgent, contribution, systsem, **sector**, **throughout**
