@@ -1,12 +1,18 @@
-Subject: So sorry I can't make it this weekend!
+1.Your friend Jim is moving furniture at the weekend. He originally asked you to help, but your boss asked you to work overtime to complete one task. So, you are writing an email to explain that you can't go because of following three reasons:
+-Work
+-Transport
+-Family
+
 
 Hi Jim,
 
-I hope you’re doing well. I’m writing to sincerely apologize as I won’t be able to help you move furniture this weekend as originally planned.
+I’m writing to sincerely apologize as/that I won’t be able to help you move furniture this weekend as planned.
 
-First and foremost, my boss has unexpectedly asked me to work overtime to complete an urgent task, which is mandatory. In addition to the workload, I am facing major transport issues since my car is currently in the shop for repairs, making it difficult to reach your place. Lastly, I have an important family commitment that requires my presence on Sunday.
+First, regarding work, my boss asked me to work overtime to complete an urgent task with a strict deadline. Second, I have a transport issue because my car broke down and will remain at the repair shop until next Monday.
 
-I feel terrible about letting you down. Once things settle, let’s grab dinner—my treat!
+Finally, I have an important family commitment that requires my presence on Sunday. / Finally, an unexpected family matter requires my immediate attention as my children need my care this Saturday.
+
+I am truly sorry for letting you down at the last minute. Please let me know if I can assist you next week instead.
 
 Best regards,
 

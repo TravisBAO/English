@@ -1,7 +1,11 @@
+You and your friends had dinner at a restaurant yesterday. You think you left a bag at the restaurant. Write an email to the restaurant manager. You should write at least 100 words. Your ideas must come from the following three themes:
+-Describe your situation, (when, who you were with, where you sat, etc.)
+-What the bag look like and what the bag was in?
+-Tell them how to contact you.
+
+
 ## 提分关键点解析
 ### 词汇升级 (Vocabulary):
-
- - 将 near 改为 adjacent to（高级方位词）。
 
  - 将 metal belt 改为 metal strap（更地道的皮包肩带表达）。
 
@@ -45,12 +49,38 @@ Travis
 
 Dear Restaurant Manager,
 
-I am writing to formally inquire about a missing bag following my visit yesterday. My friends and I **were celebrating** a birthday and **were seated at** the table **adjacent** to the main entrance, Unfortunately, I left my belongings behind upon departure.
+I am writing to formally inquire about a missing bag following my visit yesterday. 
+/ Following my visit yesterday, I am writing to formally request your assistance in tracing a missing bag on your premises.
 
-The item is a small, black handbag featuring a long strap with **no visible branding** on the exterior. **Contained within** are several personal items, including a power bank and a wallet which **houses** my driver’s license for **verification purposes**.
+My friends and I **were celebrating** a birthday and **were seated at** the table next to the main entrance. Unfortunately, I left my bag behind.
 
-I would greatly appreciate your assistance in checking the lost and found department. If the bag is found, please contact me at your earlier convenience at 12345555. Thank you for your time.
+The item is a small, black handbag/shoulder bag featuring a long strap with **no visible branding** on the exterior./It is a small black leather shoulder bag with a silver zipper. 
+
+Inside the bag, there are several personal items, including a power bank and a wallet which **houses** my driver’s license for **verification purposes**./ Inside the bag, there are some important personal documents, a set of keys, and **a silver pair of glasses**.
+
+If your staff has found this item, could you please contact me **by phone** at 123-456-7890 or reply directly to this email?
+
+Thank you very much for your time and assistance.
 
 Best regards,
-
 Travis
+
+
+## 我最终背诵的版本 （112）
+
+Dear Restaurant Manager,
+
+Following my visit yesterday, I am writing the email to formally request your assistance in tracing my lost bag on your premises.
+
+My friends and I were celebrating a birthday yesterday and were seated at the table next to the main entrance.
+
+Unfortunately I left my bag behind. It is a small black leather shoulder bag with a silver zipper. Inside the bag, there are several important personal documents, a set of keys, and a silver pair of glasses.
+
+If your staff has found it, could you please contact me by phone at 123-456-1234, or reply directly to this email?
+
+Thank you for your time and assistance.
+
+Best Regards,
+Travis
+
+

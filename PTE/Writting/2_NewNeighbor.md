@@ -1,15 +1,10 @@
 Write an email to your neighbor who has just moved in and ask him/her to address some issues. You should write between 80 and 120 words.
 
-
-
 The issues mentioned in the email should include the following three words:
 
 - Noise;
-
 - Parking;
-
 - Garbage.
-- 
 
 ## Gemini
 
