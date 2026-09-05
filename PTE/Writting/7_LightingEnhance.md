@@ -4,6 +4,8 @@ You live on the second floor of an apartment building with no elevator. There is
 -Motion sensing lighting.
 
 
+## 我最终背诵的版本 （120）
+
 Dear Apartment Manager,
 
 I am writing to formally request an improvement to the poor lighting in our building. As a resident on the second floor of this building with no elevator, walking up the dark stairs at night has become quite difficult and unsafe.
@@ -15,5 +17,4 @@ First, I kindly request that you install more lights along the staircase, so tha
 I look forward to your prompt action on this matter.
 
 Best regards,
-
 Travis
