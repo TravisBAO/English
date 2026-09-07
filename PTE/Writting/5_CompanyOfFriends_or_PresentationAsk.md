@@ -1,34 +1,25 @@
-图片中的文字提取如下：
 
 You're going to give a presentation in the company of your friend Jim, but you are not familiar with the venue there, so you are writing to ask about the basic information of the company. You should write at least 100 words. Your ideas must come from the following three themes:
+
 -Describe your situation, including specific time;
 -Ask about the availability of technology equipment such as computers and projectors;
 -Ask about the number of participants.
 
 
-## 我最终背诵的版本 （116）
-Hi Jim,
+## 我最终背诵的版本 （114）
 
-I am writing to check a few venue details with you for my upcoming presentation at your company. I want to make sure that everything goes smoothly on that day.
+Dear Jim,
 
-To help me prepare effectively, I need some specific information. Regarding my situation, I am scheduled to deliver the presentation next Friday, October 20th, at 10:00 AM.
+I am writing to confirm a few venue details for my upcoming presentation at your company, scheduled for next Friday, October 20th, at 10:00 AM.
 
-Could you please confirm the availability of technology equipment, such as computers, projectors, and audio systems in the room? Additionally, how many participants are expected to attend the session? Knowing the audience size will help me tailor the materials and prepare enough printed handouts.
+Could you please confirm the availability of technology equipment in the room, such as computers, projectors, and audio systems? Additionally, I would appreciate it if you could let me know how many participants are expected to attend the session. Knowing the precise audience size will help me adjust/tailor/customize the presentation materials and prepare enough printed handouts/materials. Please let me know if there are any specific guidelines I should follow.
 
-Thanks for your help, and I look forward to your reply.
+Thank you very much for your assistance, and I look forward to hearing from you soon.
 
 Best regards,
 Travis
 
-评分要点与亮点解析：
-全面覆盖三大主题 (Three Themes Covered)：
 
-Describe your situation, including specific time: 交代了演讲情境与具体时间（deliver the presentation next Friday, October 20th, at 10:00 AM）。
-
-Ask about technology equipment: 询问电脑、投影仪及音响等设备（availability of technology equipment, such as computers, projectors, and audio systems）。
-
-Ask about the number of participants: 询问参会人数（how many participants are expected to attend）。
-
-角色与称呼精准：向朋友 Jim 发送邮件，采用自然且有礼貌的半正式/非正式语气（Hi Jim）。
-
-字数与结构：正文（从 I am writing... 到 ...look forward to your reply.）刚好 112 词，结构清晰，连接词与语法表达极其规范！
+Notes:
+ - 绝对不能用复数！equipment 是不可数名词（Uncountable Noun），永远不能加 -s。即使你想表达“很多设备”或“各种设备”，也不能写成 equipments。
+ - 在英语写作（尤其是标准职场邮件和 PTE 官方推荐格式）中，先写星期和日期，再写具体时间点是最自然、最地道的顺序。

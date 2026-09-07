@@ -74,7 +74,7 @@ Following my visit yesterday, I am writing the email to formally request your as
 
 My friends and I were celebrating a birthday yesterday and were seated at the table next to the main entrance.
 
-Unfortunately I left my bag behind. It is a small black leather shoulder bag with a silver zipper. Inside the bag, there are several important personal documents, a set of keys, and a silver pair of glasses.
+Unfortunately, I left my bag behind. It is a small black leather shoulder bag with a silver zipper. Inside the bag, there are several important personal documents, a set of keys, and a silver pair of glasses.
 
 If your staff has found it, could you please contact me by phone at 123-456-1234, or reply directly to this email?
 
