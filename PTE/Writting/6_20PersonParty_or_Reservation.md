@@ -1,7 +1,9 @@
-You are writing to ask restaurant manager if you can reserve a table in Oscar's kitchen for friend to hold a birthday party for twenty people next Friday, because you can only book a table for six people online. You should write at least 100 words. Your ideas must come from the following three themes:
--You will tell the manager the situation and specific time;
--Birthday detail and what will you do in the party
--Ask if there is a parking space in the building?
+You are writing to ask restaurant manager if you can reserve a table at Oscar's kitchen for friend to hold a birthday party for twenty people next Friday, because you can only book a table for six people online. You should write at least 100 words. Your ideas must come from the following three themes:
+
+ - You will tell the manager the situation and specific time;
+ - Birthday detail and what will you do in the party
+ - Ask if there is a parking space in the building?
+
 
 
 ## 我最终背诵的版本 （105）

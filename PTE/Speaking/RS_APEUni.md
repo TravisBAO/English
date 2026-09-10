@@ -8,5 +8,6 @@
 
 **5 - Teenagers more than most age groups feel strong pressure to conform.**
 
+ 8 - Please make sure that your assignments has been successfully submitted vai the online portal
 
 15 - The corporation did not work well and gained no profits.

@@ -12,7 +12,7 @@ Dear Jim,
 
 I am writing to confirm a few venue details for my upcoming presentation at your company, scheduled for next Friday, October 20th, at 10:00 AM.
 
-Could you please confirm the availability of technology equipment in the room, such as computers, projectors, and audio systems? Additionally, I would appreciate it if you could let me know how many participants are expected to attend the session. Knowing the precise audience size will help me adjust/tailor/customize the presentation materials and prepare enough printed handouts/materials. Please let me know if there are any specific guidelines I should follow.
+Could you please confirm the availability of technology equipment in the room, such as computers, projectors, and audio systems? Additionally, I would appreciate it if you could let me know how many participants/attendees are expected to attend the session. Knowing the precise/exact audience size will help me adjust/tailor/customize the presentation materials and prepare enough printed handouts/materials. Please let me know if there are any specific guidelines I should follow.
 
 Thank you very much for your assistance, and I look forward to hearing from you soon.
 
