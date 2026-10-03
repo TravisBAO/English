@@ -29,7 +29,7 @@ The bus **right out front** will take you to London.
 
 10 - I didn't understand the author's point of view on immigration.
 
-11 - Students from different backgrounds can achieve **a variety of qualifications.**
+
 
 34 - Students with a wide range of backgrounds can achieve a variety of qualifications.
 
@@ -103,7 +103,7 @@ Passengers should not put their feet on the seats.
 
 45 - Sutdents have the opportunity to share their lunch during the common lunch break around noon.
 
-47 - There are various approaches of plagiarism across different university departments.
+
 
 48 - The origin of psychology can be traced back to ancient Greece.
 
@@ -152,7 +152,7 @@ You need to record every details of the call in the afternoon.
 
 If you forget your passport, please contact the office.
 
-YOu have fulfilled the enrollment requirements.
+
 
 70 - I make sure to prepare report for my boss.  
 94 - I have to prepare report for the manager.  
@@ -189,6 +189,7 @@ The library is downstairs on the east side of the building.
 Tomorrow evening, there will be a **panel discussion** on sustainable development.
 
 You should submit your essays to the general office.
+Please submit your term papers to the general office.
 
 93 - If the doctor calls me **while I'm out**, please leave a message.
 
@@ -206,7 +207,7 @@ We will discuss the influence of the media on public policy.
 
 Different entrances to the program get the same qualification.
 
-101 - **Control systems in manufacturing** require a high level of accuracy.
+
 
 102 - The professor predicted biotechnology is the future of traditional biology.
 

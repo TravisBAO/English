@@ -6,7 +6,7 @@
 Skilled trades are needed around the world. These jobs are good for those who are not good at the office and are paid more than the average pay in Canada.
 
 2.Phone Interviews: 
-Interviewers cannot see your face in the phone interview. So how you talk is crucial. It is important to be confident and show a pleasant tone and energy.
+Interviewers cannot see your face in the phone interview. So how you talk is vital/critical/essential. It is important to be confident and show a pleasant tone and energy.
 
 3.Orientation/Employee Training: 
 Orientations are training sessions for new employees in organizations. Some orientations are boring and a waste of time. Smaller sessions tend to be more effective.
