@@ -18,6 +18,7 @@ I look forward to hearing from you to confirm this reservation.
 Best regards,
 Travis
 
+
 评分要点与字数校验：
 全面覆盖三大提示点 (Three Themes Covered)：
 
