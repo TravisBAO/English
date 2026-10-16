@@ -5,7 +5,7 @@ According to the picture, we can see that:
 
 There is some information about hot water, which is vital for water kettle.
 
-Moreover, there is some information about instant coffee stick, which is coffee cup.
+Moreover, there is some information about instant coffee stick, which is important to coffee cup.
 
 Apart from that, we can see that:
 There is some information about sugar, which is important to creamer.

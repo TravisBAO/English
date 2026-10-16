@@ -6,7 +6,7 @@ houses, sound, drifting, wander, skyscrapers, booming, teachers.
 
 As booming sounds among the skycrapers, teachers in their houses listened while wander and drifting.
 
-reflects, leading, adopt, infants, critical, ensure
+**reflects, leading, adopt, infants, critical, ensure**
 
 in, recruit, revised, conceal, increases, advanced
 
