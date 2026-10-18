@@ -1,4 +1,3 @@
-The picture mainly talks about how to make a cup of coffee.
 The picture shows information about how to make a cup of coffee.
 
 According to the picture, we can see that:
@@ -18,17 +17,10 @@ In conclusion, the picture is very informative and useful.
 keywords:
 
 hot water
-
 water kettle
-
 instant coffee stick
-
 coffee cup
-
 sugar
-
 creamer
-
 coffee spoon
-
 coffee drinker

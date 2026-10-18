@@ -9,9 +9,9 @@ Dear Mrs. Smith,
 
 I am writing to share a few practical suggestions regarding our company's plan to reduce energy consumption in the office.
 
-First, we should encourage all staff members to develop/build a good habit of turning off the lights when leaving empty meeting rooms or quiet office areas. Second, employees should be regularly reminded about shutting down computers completely at the end of each workday rather than leaving them in standby mode overnight. Finally, we should optimize the settings for heating and air-conditioning systems. This can be achieved simply by adjusting thermostats a few degrees, which could significantly reduce/cut/lower overall electricity costs.
+First, we should encourage all staff members to develop/build a good habit of turning off the lights when leaving empty meeting rooms or quiet office areas. Second, employees should be regularly reminded about shutting down computers completely at the end of each workday, rather than leaving them in/on standby mode overnight. Finally, we should optimize the settings for heating and air-conditioning systems. This can be achieved simply by adjusting thermostats a few degrees, which could noticeably/significantly reduce/cut/lower overall electricity costs.
 
-Thank you very much for considering these practical ideas, and I look forward to hearing from you soon.
+Thank you very much for considering these suggestions, and I look forward to hearing from you soon.
 
 Best regards,
 Travis
