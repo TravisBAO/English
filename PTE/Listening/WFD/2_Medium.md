@@ -1,6 +1,6 @@
-Her design incorporates the best aspects of vernacular architecture.
+**Her design incorporates the best aspects of vernacular architecture.
  incorporate vt. 吸收
- vernacular [vərˈnækjələr] adj. 民间的
+ vernacular [vərˈnækjələr] adj. 民间的**
 
 At this time, experts are not able to analyze the effects of the new policy.
 
@@ -10,8 +10,8 @@ A university degree is a requirement to enter many professions.
 
 You should complete the job application in order to get called for the manager's position
 
-Stock predictions can be very capricious even for professionals. 
- Capricious /kə'prɪʃəs/ 变化无常的, 捉摸不定的
+**Stock predictions can be very capricious even for professionals. 
+ Capricious /kə'prɪʃəs/ 变化无常的, 捉摸不定的**
 
 The new classrooms will put into use next month.
 
@@ -19,8 +19,8 @@ Football is played all the year at the university.
 
 Social policy is a study of the government's social response to social issues.
 
-Mental health professionals are talking about the topic of vulnerability.
-vulnerability [ˌvʌlnərə'bɪləti] n. 脆弱性
+**Mental health professionals are talking about the topic of vulnerability.
+vulnerability [ˌvʌlnərə'bɪləti] n. 脆弱性**
 
 Gold is a metal that occurs in a pure state.
 Gold is a metal that appears natually in a pure state.
@@ -33,16 +33,16 @@ Now you are able to download instructions and related videos below.
 
 Exam results will be published on the **noticeboard**.
 
-The earth's atmosphere is primarily composed of oxygen and nitrogen gases.
+**The earth's atmosphere is primarily composed of oxygen and nitrogen gases.
  - primarily [praɪˈmerəli]
- - nitrogen [ˈnaɪtrədʒən]
+ - nitrogen [ˈnaɪtrədʒən]**
 
 Students are required to have an undergraduate degree in biology to be enrolled in this course.
 
 A world-renowned expert on financial management will give a guest lecture.
 
-The fiction books are just past the counter.
- - past !!!!!!!!
+**The fiction books are just past the counter.
+** - past !!!!!!!!
 
 The stairs are to the left of the elevator. 
  - to 强调相对位置是分离的， on一般是在一起的 the button is on the left of the panel.
@@ -128,8 +128,8 @@ The dance department stages elaborated performances each semester.
  - stage vt.举办
  - elaborated performances 精心编排得表演
 
-Sales figures for last year were better than expected.
- - sales figures 固定搭配，都是复数
+**Sales figures for last year were better than expected.
+ - sales figures 固定搭配，都是复数**
 
 Hundreds of scientific papers have been published on global warming.
 

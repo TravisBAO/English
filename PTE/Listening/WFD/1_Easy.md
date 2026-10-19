@@ -10,15 +10,15 @@ Some studies show the link between depression and social media.
 
 Social media is responsible for helping the government to solve social problems.
 
-The population will shrink drastically over the next twenty years.
-shrink v. 收缩
+**The population will shrink drastically over the next twenty years.
+**shrink v. 收缩
 drastically adv. 激烈地
 
 Students must wear protective clothing provided in the medical **laboratory**. [ˈlæbrəˌtɔri]
 
 Currently the growth of the economy is unpredictable.
 
-Students live in the hall of residence during term time.
+Students live in the **hall of residence** during **term time**.
 hall of residence n. 学生宿舍
 term time n. 学期
 
@@ -35,7 +35,7 @@ an appointment 有连读，真是发音：/ə-nə-ˈpɔɪnt-mənt/
  - an egg 连读听感：a-negg (/ə-ˈneɡ/)
  - an example: /ə-nɪɡ-ˈzæm-pəl/
 
-Students of the first year usually live on campus.
+Students of the first year usually live **on campus**.
  - on campus!!! 不是 in
 
 A good academic paper should present a clear argument.
@@ -46,7 +46,7 @@ Joining a society can help to meet new people.
 
 Being a **vegan** means not **consuming** any animal products.
 
-You should meet me in the lecture theater room.
+You should meet me in the **lecture theater room.**
  - lecture theater room 阶梯教室
 
 The **seminar** on writing skills has been canceled.
@@ -59,13 +59,13 @@ Our culture influences the choices we make.
 Atoms are the central building blocks of matter.
 Atoms are the basic building blocks of matter.
 
-The teacher explained the homework to the class. 
- - explained 在这里 ed，跟后面t相连，不发音
+**The teacher explained the homework to the class. 
+ - explained 在这里 ed，跟后面t相连，不发音**
 
 The weather used to be lovely for this time of year.
 
-You can get your coffee and tea in the lounge room. 
- - lounge 休息厅，起居室
+**You can get your coffee and tea in the lounge room. 
+ - lounge 休息厅，起居室**
 
 The restroom is down the hall and on the right.
 The restrooms are down the entrance and to the right.
@@ -73,11 +73,11 @@ The restaurants are down the hall and to the right.
 
 The stairs are to the left of the elevator.
 
-There is an accounting assignment for finance students.
- - an accounting, 连读如上 a-na-ccounting
+**There is an accounting assignment for finance students.
+ - an accounting, 连读如上 a-na-ccounting**
 
-You can keep your bag in the back room.
- - back room, backroom 不确定时，可以都写上!!!
+**You can keep your bag in the back room.
+ - back room, backroom 不确定时，可以都写上!!!**
 
 we should have a meeting to discuss and report.
  - 这个奇怪，竟然是 and.
@@ -97,15 +97,15 @@ It is an integrated course with several main elements.
 
 Understanding visual media has never been more challenging.
 
-The internet has transformed the nature of publishing.
- - nature 本质
+**The internet has transformed the nature of publishing.
+ - nature 本质**
 
 Scholarships are available for both local and international students.
 
 The history department is very active in research.
 
-Honey can be used as food and a health product.
- - a health product 名词作定语，又如 bus stop, car insurance, coffee cup
+**Honey can be used as food and a health product.
+ - a health product 名词作定语，又如 bus stop, car insurance, coffee cup**
 
 Designers need to keep up with social trends.
 

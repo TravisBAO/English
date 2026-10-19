@@ -1,14 +1,14 @@
 While some people regard it as reforming zeal, others regard it as reckless.
 
-Food containing ample calories provides little or no nutritional value.
+Food containing ample **calories** provides little or no nutritional value.
  - calorie [ˈkæləri]
 
-When the root system of a plant fails, foliage suffers.
+When the root system of a plant fails, **foliage** suffers.
  - foliage n.叶子
 
 A visit to the designed museum is of great value.
 
-The course involves a combination of pure and applied mathematics.
+**The course involves a combination of pure and applied mathematics.**
  - 该课程结合了纯数学与应用数学。[ˌmæθəˈmætɪks]
 
 The researchers are disappointed that the results of the research have been proved to be inconclusive.

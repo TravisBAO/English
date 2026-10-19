@@ -3,7 +3,7 @@
 要求字数在20-30字之间，要求写长句子,不能有语法和拼写错误。
 
 1.Skilled Tradespeople/ skilled workers: 
-Skilled trades are needed around the world. These jobs are good for those who are not good in a office and are paid more than the average pay in Canada.
+Skilled trades are needed around the world. These jobs are good for people who prefer not to work in an office and pay more than the average salary in Canada.
 
 2.Phone Interviews: 
 Interviewers cannot see your face in the phone interview. So how you talk is vital/critical/essential. It is important to be confident and show a pleasant tone and energy.
