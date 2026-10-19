@@ -9,13 +9,16 @@ You live on the second floor of an apartment building with no elevator. There is
 
 Dear Apartment Manager,
 
-I am writing to formally request an improvement to the poor lighting in our building. As a resident on the second floor of this building with no elevator, walking up the dark stairs at night has become quite difficult and unsafe.
+I am writing to formally request an improvement to the poor lighting in our building. 
 
-To resolve this issue, I would like to offer three suggestions.
+As a second-floor resident in this building with no elevator, walking up the dark stairs at night has become quite difficult and unsafe. To resolve this issue, I would like to offer three suggestions.
 
-First, I kindly request that you install more lights along the staircase, so that the steps are clearly visible. Second, replacing the single weak bulb at the entrance with brighter lights would enhance overall visibility and security. Finally, adopting motion sensing lighting would be a smart and energy-efficient/energy-saving/eco-friendly solution for all residents.
+First, I kindly request that you install more lights along the staircase, so that the steps are clearly visible. Second, replacing the single weak bulb at the entrance with brighter lights would enhance overall visibility and security. Finally, adopting motion sensing lighting would be a smart and energy-saving/eco-friendly solution for all residents.
 
 I look forward to your prompt action on this matter.
 
 Best regards,
 Travis
+
+## 其他写法
+Since this building has no elevator, walking up the dark stairs at night is both difficult and unsafe for second-floor residents.

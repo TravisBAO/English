@@ -6,13 +6,13 @@
 ## 我最终背诵的版本 （105）
 Hi Jim,
 
-I’m writing to sincerely apologize as/that I won’t be able to help you move furniture this weekend as planned.
+I’m writing to sincerely apologize that I won’t be able to help you move furniture this weekend as planned. Unfortunately, several unexpected conflicts have come up/occurred at the same time.
 
-First, regarding work, my boss asked me to work overtime to complete an urgent task with a strict deadline. Second, I have a transport issue because my car broke down and will remain at the repair shop until next Monday.
+First, regarding work, my boss asked me to work overtime to complete an urgent task with a strict deadline. Second, I have a transport issue because my car is currently out of service and being repaired until next Monday.
 
-Finally, an unexpected family matter requires my immediate attention as my children need my care this Saturday.
+Finally, an unexpected family matter requires my immediate attention as I need to take care of my children this Saturday.
 
-I am truly sorry for letting you down at the last minute. Please let me know if I can assist you next week instead.
+Although I cannot be there physically, I would be happy to help order some food for you that day. Please let me know how it goes.
 
 Best regards,
 Travis

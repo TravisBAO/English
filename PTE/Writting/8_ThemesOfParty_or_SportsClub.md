@@ -10,7 +10,7 @@ I am writing to share a few ideas regarding the upcoming party for our sports cl
 
 First, regarding music, setting up an energetic playlist would keep a fun and lively atmosphere.
 
-Second, for foods, offering a buffet with healthy options alongside classic party snacks and drinks would easily satisfy everyone’s preferences. In addition, providing fresh juice and cold water would keep everyone refreshed.
+Second, for foods, offering a buffet with healthy options with classic party snacks and drinks would easily satisfy everyone’s preferences. In addition, providing fresh juice and cold water would keep everyone refreshed.
 
 Finally, organizing interactive sports games or quiz games could encourage/build team spirit and keep everyone fully involved throughout the evening.
 
@@ -20,11 +20,5 @@ Best regards,
 Travis
 
 
-替换词
-sports games
-team quiz games
+## 替换词
 icebreaker games
-
-refreshments
-drinks
-beverages
