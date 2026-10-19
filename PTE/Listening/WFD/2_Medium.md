@@ -96,11 +96,10 @@ The university has invested in the new technology designed to support learning.
 
 The area has a wide variety of underwater habitats and species
 
-Scientists recognize different ice types according to the water molecule content.
- - molecule [ˈmɑləˌkjul] n.分子
 
 They developed a unique approach to training their employees.
  - a unique
+ - to training
 
 The new media have transcended traditional national boundaries.
  - transcend [trænˈsend] vt. 超越
@@ -109,7 +108,7 @@ The new media have transcended traditional national boundaries.
 We can't consider an increase **in our price** at this stage.
 
 Universities need to secure the grants for research projects.
- - securethe grants 争取拨款
+ - secure the grants 争取拨款
 
 The industrial revolution in Europe was driven by steam technology.
 

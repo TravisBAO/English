@@ -48,19 +48,33 @@
 
 ### From 2_Medium_2.md
 
-* **Stock predictions can be very capricious even for the professionals.**
+* **Stock predictions can be very capricious even for professionals.**
 * 
 * **Mental health professionals are talking about the topic of vulnerability.**
+* 
 * Computers used to be larger than **they are** now.
+* 
 * **We are committed to recruiting candidates from all backgrounds and identities.**
+* 
 * Exam results will be published on the **noticeboard**.
+* 
 * **The earth's atmosphere is primarily composed of oxygen and nitrogen gases.**
+* 
 * **The fiction books are just past the counter.**
+* 
 * Many cities are **actively** working on ways to reduce air **pollution**.
+* 
 * **Mechanical** engineering firstly became **prominent** during the industrial revolution.
+* 
 * **An academic essay should use evidence from both primary and secondary sources.**
+* 
 * It is interesting to observe the development of the language skills of **toddlers**.
+* 
 * We can't consider an increase **in our price** at this stage.
+* 
 * The nation achieved prosperity by **opening its ports for trade**.
+
+
 * The railway makes the **long-distance** travel possible for everyone.
+* 
 * **Sales figures for last year were better than expected.**
