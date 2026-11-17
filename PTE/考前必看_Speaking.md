@@ -7,10 +7,13 @@
  - prepare ------ [prɪˈper]
  - obtain ------- [əbˈteɪn]
  - prevent ------ [prɪˈvent]
+ - museum ------- [mjuˈziəm]
+ - except ------- [ɪkˈsept]
 
 
 ## 重音在前面 
  - student ------[ˈstud(ə)nt]
+ - opposite -----[ˈɑpəzɪt]
 
 ## 双元音发音要饱满
  - around ------ [əˈraʊnd]
@@ -18,7 +21,13 @@
  - find -------- [faɪnd]
  - discount ---- [dɪsˈkaʊnt]
  - essay ------- [ˈeˌseɪ]
+ - point ------- [pɔɪnt]
+ - card -------- [kɑrd]
 
+## [z] 发音
+ - ways
+ - problems
+ - these
 
 ## 以前发音都是错的
  - female  ------ [ˈfiˌmeɪl] 注意 e 的发音
@@ -32,6 +41,11 @@
  - various ------ [ˈveriəs]
  - please ------- [pliz]
  - submit ------- [səbˈmɪt] 注意 b 的发音不能省,重音在后面，注意 i 的发音
+ - useful ------- [ˈjusf(ə)l]
+
+ - discipine ---- [ˈdɪsəplɪn]
+ - book --------- /bʊk/ 不是 布克，是伯克
+ - month -------- [mʌnθ]
 
 ## 蝴蝶 a
  - lab --  
@@ -40,9 +54,13 @@
  - campus ------- [ˈkæmpəs]
 
 ## w 开头的所有单词 --- 嘴嘟起来
- - work --------- [wɜrk] 注意 w, r
  - winter ------- [ˈwɪntər]
  - Wednesday ---- [ˈwenzˌdeɪ]
+ - warm -------- [wɔrm]
+
+## 包含w,r的单词
+ - warm -------- [wɔrm]
+ - work --------- [wɜrk]
 
 
 ## DI

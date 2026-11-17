@@ -11,16 +11,16 @@ Interviewers cannot see your face in the phone interview. So how you talk is vit
 3.Orientation/Employee Training: 
 Orientations are training sessions for new employees in organizations. Some orientations are boring and a waste of time. Smaller sessions tend to be more effective.
 
-4.The First Day of School for Children
+4.The First Day of School
 The audio talks about the first day of school. Please remember the teachers' names and classroom numbers, and don't forget to prepare enough money to buy lunch.
 
 5.Job Interviews: 
 In a job interview, the manager is seeking the ability to communicate, describe, and deliver your thoughts, motions, experience, and stories, not just answering the questions.
 
-6.Cleaning the Park: 
+6.Park Cleanup 
 The park cleanup will be divided into three tasks: picking up trash, removing plants that don't belong here, and painting or repainting the tables and chairs.
 
-7.Clean Food: 
+7.Wash fruits and vegetables: 
 Wash fruits and vegetables before eating and cutting them. Prewashed and well-packaged fruits and vegetables don't need to be washed again.
 
 8.Rail Pass:
