@@ -1,7 +1,7 @@
 You are a member of a sports club and you are writing to the club manager Mrs. Singh to make some suggestions on how to hold a party. You should write at least 100 words. Your ideas must come from the following three themes:
--Music
--Foods
--Games
+- Music
+- Foods
+- Games
 
 ## 我最终背诵的版本 （114）
 Dear Mrs. Singh,

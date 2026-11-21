@@ -1,7 +1,7 @@
 1.Your friend Jim is moving furniture at the weekend. He originally asked you to help, but your boss asked you to work overtime to complete one task. So, you are writing an email to explain that you can't go because of following three reasons:
--Work
--Transport
--Family
+- Work
+- Transport
+- Family
 
 ## 我最终背诵的版本 （105）
 Hi Jim,

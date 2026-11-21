@@ -1,8 +1,8 @@
 Write an email to Ms. Susan regarding her invitation to go out for a movie, expressing your gratitude for the invitation, and apologizing for your inability to attend. Your response must include the following points:
--Thank her for the invitation.
--Express appreciation for the gesture.
--Apologize for not being able to attend.
--suggest another available time
+- Thank her for the invitation.
+- Express appreciation for the gesture.
+- Apologize for not being able to attend.
+- suggest another available time
 
 
 ## 我最终背诵的版本 （106）

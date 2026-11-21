@@ -1,7 +1,7 @@
 Your company is trying to save energy, and you want to write an e-mail to make some suggestions to the manager, Mrs. Smith about energy reduction. You should write at least 100 words. Your ideas must come from the following three themes:
--Turing off the lights.
--Shutting down computers.
--Heating and air-conditioning.
+- Turing off the lights.
+- Shutting down computers.
+- Heating and air-conditioning.
 
 
 ## 我最终背诵的版本 （115）

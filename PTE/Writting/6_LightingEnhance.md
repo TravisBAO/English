@@ -1,8 +1,8 @@
 You live on the second floor of an apartment building with no elevator. There is only one weak light bulb at the entrance of the building and there is no light by the stairs. Please write an email to express these difficulties. You should write at least 100 words. Your ideas must come from the following three themes:
 
--Install more lights;
--Brighter lights;
--Motion sensing lighting.
+- Install more lights;
+- Brighter lights;
+- Motion sensing lighting.
 
 
 ## 我最终背诵的版本 （120）

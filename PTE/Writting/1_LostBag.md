@@ -1,7 +1,7 @@
 You and your friends had dinner at a restaurant yesterday. You think you left a bag at the restaurant. Write an email to the restaurant manager. You should write at least 100 words. Your ideas must come from the following three themes:
--Describe your situation, (when, who you were with, where you sat, etc.)
--What the bag look like and what the bag was in?
--Tell them how to contact you.
+- Describe your situation, (when, who you were with, where you sat, etc.)
+- What the bag look like and what the bag was in?
+- Tell them how to contact you.
 
 
 ## 我最终背诵的版本 （112）

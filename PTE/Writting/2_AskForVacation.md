@@ -1,7 +1,7 @@
 You need to take a vacation for 2 weeks and your manager Dani wants you to send her an email with all the details. Write about:
--Exact dates of the vacation
--Reason for the leave
--Who will cover for you during that time and where can they reach you if they have to.  
+- Exact dates of the vacation
+- Reason for the leave
+- Who will cover for you during that time and where can they reach you if they have to.  
 
 ## 我最终背诵的版本 （109）
 Dear Dani,
