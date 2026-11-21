@@ -8,11 +8,11 @@ Dear Mrs. Singh,
 
 I am writing to share a few ideas regarding the upcoming party for our sports club. To make the event enjoyable for everyone, I would like to offer three main suggestions.
 
-First, regarding music, setting up an energetic playlist would keep a fun and lively atmosphere.
+First, regarding music, setting up an energetic playlist would set/create/keep a fun and lively atmosphere.
 
 Second, for foods, offering a buffet with healthy options with classic party snacks and drinks would easily satisfy everyone’s preferences. In addition, providing fresh juice and cold water would keep everyone refreshed.
 
-Finally, organizing interactive sports games or quiz games could encourage/build team spirit and keep everyone fully involved throughout the evening.
+Finally, organizing interactive sports and quiz games could encourage/build team spirit and keep everyone fully involved/engaged throughout the event.
 
 Thank you for considering these suggestions, and I look forward to a successful event.
 

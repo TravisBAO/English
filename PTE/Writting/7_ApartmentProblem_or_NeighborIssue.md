@@ -5,16 +5,16 @@ You are renting an apartment, but there are some problems with it. You are writi
  - How to fix the problems.
 
 
-## 我最终背诵的版本 （115）
+## 我最终背诵的版本 （102）
 Dear Marvin,
 
 I am writing to express my dissatisfaction/concerns regarding two unresolved/ongoing/existing problems in my apartment.
 
-The issues I encounter include loud late-night noise from the neighbor upstairs and a broken/non-functional/malfunctioning hot water system, which has frequently/repeatedly failed. These have severely/seriously/significantly affected my daily life, causing sleep interruption/deprivation/disruption and stopping/preventing me from taking showers after work.
+First, regarding the neighbor upstairs, loud noise at night has significantly/seriously/severely disrupted/affected my sleep, as sound easily passes through the ceiling. To resolve this, I kindly request that you speak with them about respecting quiet hours.
 
-To fix these problems, I kindly request that you speak with the neighbor upstairs about quiet hours. Additionally, please arrange a professional plumber/technician to inspect and permanently repair the hot water system this time. Resolving these issues promptly would maintain/ensure a peaceful living environment for everyone.
+Second, concerning the hot water system, it is broken/malfunctioning again, which has repeatedly/frequently happened and prevents me from taking showers after work. Please arrange a professional technician/plumber to inspect and completely repair it this time.
 
-I appreciate your quick action on/attention to these matters.
+I appreciate your quick action on/attention to these matters. I look forward to hearing from you soon.
 
 Best regards,
 Travis
