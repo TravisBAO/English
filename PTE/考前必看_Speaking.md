@@ -46,6 +46,14 @@
  - discipine ---- [ˈdɪsəplɪn]
  - book --------- /bʊk/ 不是 布克，是伯克
  - month -------- [mʌnθ]
+ - discuss ------ [dɪˈskʌs] 读k吧
+ - Credit ------- [ˈkredɪt] 像中文 dei
+
+ - employee ----- [ɪmˈplɔɪiː] 注意第一个 ɪ，第二个 ɪ，以及最后的iː
+ - family ------- [ˈfæm(ə)li] 是 fan me lei,不是 fan mi lei, 
+ - parent ------- [ˈperənt] 美式是前面这个，英式后面这个[ˈpeərənt]
+ - two --------------------嘴要有一个突出去的动作
+ - seems -------- [simz] s, z
 
 ## 蝴蝶 a
  - lab --  
